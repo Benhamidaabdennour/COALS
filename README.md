@@ -11,7 +11,7 @@ This code allows you to compute and save a COALS model for a text document. The 
 - Python 2.7 or later
 - At least 10mb of storage
 - For better results, at 18gb of ram is needed, for models with 14k words. You can still use google colab for up to 30k words using the free version.
-- Clened text (no special chars or numbers)
+- "Stopwords.txt"
 
 2- Libraries used:
 - re.sub: function that alllow as to delete portions of text that are or not in the text
