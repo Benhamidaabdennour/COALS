@@ -10,8 +10,7 @@
         - The nltk tokenizer is used to split the text into words
     ---------
     Variables returned:
-        -a Python Dictionnary is the only data structure we used to return and used variable 
-        because it defines the context variable in django that we will use in out templates
+        -a Python Dictionnary is stored as a json file in the same path of this code file
     ---------
     Structure of the file:
         -Containes function of cleaning, weight computing and semantic space
