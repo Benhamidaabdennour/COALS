@@ -19,6 +19,8 @@
 from re import sub #https://docs.python.org/3/library/re.html
 import math as m 
 from nltk.tokenize import word_tokenize
+import os
+import json
 
 #funct to compute stopwords in a text
 def StopWords(Text):
